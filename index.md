@@ -96,7 +96,7 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Vue des Grands Boulevards
 
 ![Branching](vue_des_grands_boulevards.jpg)
 
