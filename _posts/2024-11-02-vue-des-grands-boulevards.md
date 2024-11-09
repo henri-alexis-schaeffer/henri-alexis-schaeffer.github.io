@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Vue des Grands Boulevards"
 ---
-### Vue des Grands Boulevards
+### 
 
 ![Branching](../assets/vue_des_grands_boulevards.jpg)
