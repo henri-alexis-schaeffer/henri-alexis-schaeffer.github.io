@@ -7,4 +7,4 @@ layout: default
 ![Branching](/assets/salon_1948_000001.jpg)
 ![Branching](/assets/salon_1948_000064.jpg)
 
-[back](./)
+[back]({{ site.url }}/)

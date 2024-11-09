@@ -5,4 +5,4 @@ layout: default
 
 ![Branching](/assets/vue_des_grands_boulevards.jpg)
 
-[back](./)
+[back]({{ site.url }}/)
