@@ -1,7 +1,9 @@
 <nav>
+    {{item.link}}
+    {{page.url}}
     <ul>
         {% for item in site.data.menu %}
-        <li> <a class="{% if page.url ==item.link %} active {% endif%}" href="{{item.link}}">{{item.title}}</a>
+        <li> <a class="{% if page.url ==item.link %}active{% endif%}" href="{{item.link}}">{{item.title}}</a>
         </li>
         {% endfor %}
     </ul>
