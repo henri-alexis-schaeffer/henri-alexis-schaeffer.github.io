@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: etat_civil
 ---
 
 # Acte d'état civil Henri-Alexis Schaeffer
