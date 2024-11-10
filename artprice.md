@@ -9,6 +9,3 @@ layout: default
 * [Page 3](/assets/artprice/Henri-Alexis_SCHAEFFER_ prix_d_adjudication_lots_vendus_artprice.com_3.html)
 * [Page 4](/assets/artprice/Henri-Alexis_SCHAEFFER_ prix_d_adjudication_lots_vendus_artprice.com_4.html)
 * [Page 5](/assets/artprice/Henri-Alexis_SCHAEFFER_ prix_d_adjudication_lots_vendus_artprice.com_5.html)
-
-
-[back]({{ site.url }}/)
