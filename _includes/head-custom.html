@@ -7,3 +7,11 @@
 <!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
 
 <!-- end custom head snippets -->
+<nav>
+    <ul>
+        {% for item in site.data.menu %}
+        <li> <a href="{{item.link}}">{{item.title}}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
