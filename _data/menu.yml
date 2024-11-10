@@ -1,6 +1,14 @@
-- title: Vie de l'artiste
-  link: etat_civil
-- title: Oeuvres de l'artiste
-  link: oeuvres
-- title: Référence à l'artiste
-  link: reference
+- home: Home
+  linke: /
+- title: Artprice
+  link: artprice
+- title: catalogue salon 1948
+  link: catalogue-salon-1948
+- title: Acte de naissance
+  link: etat-civil
+- title: Lien blog
+  link: lien_blog
+- title: Référence
+  link: moulin-rouge
+- title: Vue des grands boulevards
+  link: vue-des-grands-boulevards
